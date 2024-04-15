@@ -27,5 +27,20 @@
     "wa": "WhatsApp",
     "aboutMeShort": "I'm Ilgiz Safiulin, A Flutter Developer",
     "stackTechology": "Technology I have worked with",
-    "themes": "Themes"
+    "themes": "Themes",
+    "androidlink": "Android Link",
+    "iosLink": "IOS Link",
+    "sanoTitlle": "Sano - accounting system for SMB",
+    "sanoDes": "Business owners can use the app to record credit sales to their regular customers. May maintain daily cash book entries. Maintain information on goods: price, quantity. Receive reports",
+    "indenimPDADes": "Application for Indenim company employees. Employees can find out the latest information about products in all branches. Using a barcode scanner, you can take inventory of goods. The application connects via TCP to a portable printer to print promotional tags for goods.",
+    "indenimCRMDesc": "Application for Indenim company clients. Using the QR-code, customers receive bonuses for purchasing goods. They can find out the current addresses of all company branches on the map. Keep track of all the purchases you have made. Receive the latest news and promotions. They can also view the entire range of products using the application.",
+    "iskenderDes": "Application for clients and employees of the Iskender company. Customers can make product purchases within the app. Company managers can track current information about the price and availability of goods",
+    "loygiftDes": "A customized application for clients and company employees to sell various products. Each company has its own design, but the functionality is the same",
+    "mamaSpaceDes": "Personal support for pregnant women and mothers. Menstruation Tracking",
+    "techUsed": "Technologies Used",
+    "myWorks": "My Works",
+    "hereAreMyWorks": "Here are My Works",
+    "previousWork": "Here are some of my Previous Work :)",
+    "viewAll": "View All",
+    "yearsExperience": "Years\nExperience"
 }
